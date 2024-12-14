@@ -1,0 +1,1 @@
+This repository contains a simple Java program demonstrating a common off-by-one error in array iteration. The program intends to populate an integer array with even numbers, but it causes an ArrayIndexOutOfBoundsException due to an incorrect loop condition. A corrected version is also provided for comparison.
